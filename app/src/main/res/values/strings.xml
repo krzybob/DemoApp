@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KrzyBob Demo App</string>
+    <string name="users_list_title">Users</string>
+    <string name="search_field_label">Search</string>
+    <string name="connection_error">Connection error.</string>
+    <string name="no_results">No results.</string>
+    <string name="login">Login: %s</string>
+    <string name="since">Since: %s</string>
+    <string name="email">Email: %s</string>
+    <string name="company">Company: %s</string>
+    <string name="public_repos">Public repositories: %d</string>
+    <string name="followers">Followers: %d</string>
+</resources>
